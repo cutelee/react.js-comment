@@ -381,7 +381,7 @@ const mainChart = {
   datasets: [
     {
       label: 'My First dataset',
-      backgroundColor: hexToRgba(brandInfo, 10),
+      backgroundColor: 'blue',
       borderColor: brandInfo,
       pointHoverBackgroundColor: '#fff',
       borderWidth: 2,

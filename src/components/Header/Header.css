@@ -1,0 +1,9 @@
+ .Header {
+  width: 50rem;
+  height: 5rem;
+  padding-top: 1rem;
+  margin: auto auto;
+  font-size: 50px;
+  margin-bottom: 1rem;
+  background-color: orange;
+}
